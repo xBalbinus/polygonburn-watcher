@@ -1,5 +1,5 @@
-# Watch the Burn 🔥
-When EIP-1559 gets deployed, ETH will be burned in every block if transactions exist. This website will show you how much ETH got burned in total and per block.
+# Watch the Burn - Polygon 🔥
+With EIP-1559 deployed, this MATIC burn watcher (built on top of Watch the Burn) will give you all the burn stats you need!
 
 If you have a local Ethereum (we use geth but you can use any ETH client) instance, you can update `REACT_APP_WEB3_URL` in  `.env.production.local` to your local ETH instance and run this offline! The instructions below show how to deploy it to a remote website under nginx.
 
