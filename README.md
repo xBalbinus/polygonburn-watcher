@@ -79,7 +79,7 @@ Setting up the environment requires a geth instance, daemon geth proxy, and reac
    ```
    npm start
    ```
-1. Launch the web app (goerli):
+1. Launch the web app (mumbai):
    ```
    open http://mainnet.go.localhost:3000:
    ```
